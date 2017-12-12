@@ -1,0 +1,60 @@
+{
+    "fruits" : [ 
+        {	
+            "fruit" : "mango",
+            "look" : "Color isn't the best way to spot a ripe mango, but a light mixture of orange, yellow and red is a good sign",
+            "feel" : "Give it a gentle squeeze, a slight softness is a good sign",
+            "smell" : "Smell around the stem for a sweet, fragrant and fruity aroma. A sour smell means it is overripe",
+            "ripe" : "60"
+        },
+        { 
+            "fruit" : "lime",
+            "look" : "A light green hue is the best indicator for a sweet lime",
+            "feel" : "You'll want to test for a smooth surface and avoid any rough textured limes. Also give a squeeze, a little give means it'll be nice and juicy",
+            "smell" : "Softly scratch the surface and if you can smell a string lime aroma, you've got a good one",
+            "ripe" : ""
+        },
+        { 
+            "fruit" : "banana",
+            "look" : "Don't fear the brown spots! As long as it's not heavily bruised, a banana covered with these dark speckles will be the sweetest and most enjoyable",
+            "feel" : "Wait for the peel to soften up a bit before removing it to eat the fruit",
+            "smell" : "A fragrant smell will come through the peel when it's ready",
+            "ripe" : "79"
+        },
+        { 
+            "fruit" : "avocado",
+            "look" : "A ripe avocado will reach a dark green to purplish color at it's peak but the best indicator is to pop off the little button at the stem. If you see green then you're good to go, a brown color means it's too late",
+            "feel" : "Wait until the avocado begins to soften up before eating, just not <i>too</i> soft",
+            "smell" : "You won't really smell anything until it's gone bad",
+            "ripe" : "80"
+        },
+        { 
+            "fruit" : "plantain",
+            "look" : "A dark brown or blackened plantain will tell you that it's ripe, sweet and ready to eat",
+            "feel" : "Softness is another good key, slight mushiness or wrinkly skin is nothing to fear",
+            "smell" : "Smell isn't a good indicator to rely on for this fruit",
+            "ripe" : "95"
+        },
+        { 
+            "fruit" : "lemon",
+            "look" : "A little green isn't a bad sign, but glossy skin is the best sign that it's good to go",
+            "feel" : "You'll want a nice firm fruit with just a slight softness",
+            "smell" : "A lemony smellinglemon is a good lemon",
+            "ripe" : ""
+        },
+        { 
+            "fruit" : "watermelon",
+            "look" : "A yellow or light green bottom hints at a watermelons ripeness. If the stripes wrap themselves all over the surface, give it some time.",
+            "feel" : "Give the melon a few taps, a hollow sound is good",
+            "smell" : "Smell around the bottom of the melon for a refreshing aroma",
+            "ripe" : ""
+        },
+        { 
+            "fruit" : "cantaloupe",
+            "look" : "A light tan color with some green lines means you've got a good one",
+            "feel" : "A ripe cantaloupe will have a slight yield upon squeezing but should still be quite hard and heavy for its size",
+            "smell" : "Sniff at its stem for a fresh cantaloupe aroma",
+            "ripe" : ""
+        }
+    ]
+}
